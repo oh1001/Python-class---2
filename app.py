@@ -1,0 +1,6 @@
+too1 = input("Too1: ")
+too2 = input("Too2: ")
+niilber = int (too1) + int (too2)
+print("niilber: " + str(niilber))
+too = int(input("too: "))
+print(too//2*2+2)
